@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/best"
+        android:title="@string/best_subscription"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/pro_user"
+        android:title="@string/you_are_a_pro_user"
+        android:icon="@drawable/ic_about_app"/>
+
+</menu>

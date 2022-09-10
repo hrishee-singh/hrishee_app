@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="167dp"
+        android:fontFamily="times"
+        android:textStyle="bold"
+        android:text="@string/select_a_subscription"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:textSize="32sp"></TextView>
+
+
+        <Button
+            android:id="@+id/btnFremium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="240dp"
+            android:layout_marginEnd="20dp"
+            android:background="@drawable/new_button_bg"
+            android:text="@string/fremium_complimentry"
+            android:textAllCaps="false"
+            android:textSize="23sp" />
+
+        <Button
+            android:id="@+id/btnGood"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btnFremium"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:background="@drawable/new_button_bg"
+            android:text="@string/good_rs_50"
+            android:textAllCaps="false"
+            android:textSize="23sp" />
+
+        <Button
+            android:id="@+id/btnBest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btnGood"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:background="@drawable/new_button_bg"
+            android:text="@string/best_rs_80"
+            android:textAllCaps="false"
+            android:textSize="23sp" />
+
+
+
+
+</RelativeLayout>

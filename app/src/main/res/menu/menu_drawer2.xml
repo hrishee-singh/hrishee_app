@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/good"
+        android:title="@string/good_subscription"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/upgrade2"
+        android:title="@string/upgrade_subscripion"
+        android:icon="@drawable/ic_about_app"/>
+
+
+</menu>

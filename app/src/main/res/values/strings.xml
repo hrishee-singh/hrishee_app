@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Hrishee</string>
+    <string name="prefrence_file_name"></string>
+    <string name="about_app">About App</string>
+    <string name="close_drawer">close_drawer</string>
+    <string name="open_drawer">open_drawer</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fremium_subscrition">Fremium Subscrition</string>
+    <string name="log_in">Log In</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="not_registered_sign_up">Not Registered? Sign Up</string>
+    <string name="login">Login</string>
+    <string name="enter_emailID">Enter Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_a_user_login">Already a user? Login</string>
+    <string name="hello">Hello</string>
+    <string name="good_rs_50">Good: Rs 50</string>
+    <string name="fremium_complimentry">Fremium: Complimentry</string>
+    <string name="best_rs_80">Best: Rs 80</string>
+    <string name="upgrade_subscripion">Upgrade subscripion</string>
+    <string name="good_subscription">Good Subscription</string>
+    <string name="best_subscription">Best Subscription</string>
+    <string name="you_are_a_pro_user">You are a Pro User</string>
+    <string name="select_a_subscription">Select A Subscription</string>
+</resources>
